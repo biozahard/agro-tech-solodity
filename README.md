@@ -1,0 +1,1 @@
+smart contract on Solidity
